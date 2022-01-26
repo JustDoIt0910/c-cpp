@@ -1,1 +1,1 @@
-# QT
+# Little projects written by c or c++
